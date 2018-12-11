@@ -1,0 +1,8 @@
+/.vs
+/DuskersChallengeTimerDiscord/bin
+/DuskersChallengeTimerDiscord/obj
+/DuskersChallengeTimerDiscord/aws-lambda-tools-r*.json
+/DuskersChallengeTimerDiscord/Config/config*.json
+/DuskersChallengeTimerDiscord/deploy-*.bat
+/DuskersChallengeTimerDiscord/*.user
+/DuskersChallengeTimerDiscord/Properties/launchSettings.json
